@@ -1,4 +1,4 @@
-# magweregwede.github.io
+# ctrl-marko.github.io
 
 Personal portfolio site for Mark Magweregwede — Junior Software Developer.
 
